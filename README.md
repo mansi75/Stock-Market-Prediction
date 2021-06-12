@@ -1,5 +1,5 @@
 # Stock-Market-Prediction
-<img src="stock.webp" width="150">
+<img src="stock.webp" width="350">
 
 
 
