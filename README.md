@@ -1,5 +1,5 @@
 # Stock-Market-Prediction
-![Imgur](stock.webp)
+![Imgur](stock.webp = 80x)
 
 
 
