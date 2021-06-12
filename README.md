@@ -1,5 +1,6 @@
 # Stock-Market-Prediction
-![Imgur](stock.webp = 80x)
+<img src="stock.webp" width="80">
+
 
 
 
