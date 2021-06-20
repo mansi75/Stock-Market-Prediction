@@ -9,7 +9,7 @@
 
 <a id="About"</a>
 ## About
-Stock market prediction works on logistic regression to predict stock price based on the dataset. Logiostic regression
+Stock market prediction works on linear regression to predict stock prices as predent in the dataset. Linear regression combines a specific set of input values (x) the solution to which is the predicted output for that set of input values (y). Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an explanatory variable, and the other is considered to be a dependent variable. 
 
 
 <a id="Dataset"></a>
