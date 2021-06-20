@@ -6,10 +6,10 @@
 * [About](#About)
 * [Features](#features)
 * [Dataset](#dataset)
-*  [Example Usage](#usage)
-*  [License](#license)
 
-
+<a id="About"</a>
+## About
+Stock market prediction works on logistic regression to predict stock price based on the dataset. Logiostic regression
 
 
 <a id="Dataset"></a>
